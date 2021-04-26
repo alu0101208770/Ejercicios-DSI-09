@@ -1,5 +1,5 @@
 {
-  "name": "ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-alu0101208770",
+  "name": "Ejercicios-DSI-09",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-alu0101208770.git"
+    "url": "git+https://github.com/alu0101208770/Ejercicios-DSI-09.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-alu0101208770/issues"
+    "url": "https://github.com/alu0101208770/Ejercicios-DSI-09.git/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-alu0101208770#readme",
+  "homepage": "https://github.com/alu0101208770/Ejercicios-DSI-09.git#readme",
   "devDependencies": {
     "@types/chai": "^4.2.16",
     "@types/mocha": "^8.2.2",
