@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/nota.ts"
+  ],
+  "out": "./documentacion"
+}
